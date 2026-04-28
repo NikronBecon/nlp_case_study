@@ -1,0 +1,9 @@
+conllu
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+sklearn-crfsuite
+torch
+tqdm
